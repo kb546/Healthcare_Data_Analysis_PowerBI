@@ -3,7 +3,7 @@
 ## Overview
 This project is an interactive **Power BI dashboard** designed to analyze healthcare performance metrics, including patient satisfaction, demographics, and visit trends. The dashboard provides actionable insights for optimizing healthcare service quality and operational efficiency across various departments.
 
-![Dashboard Preview](https://path_to_image.png)
+![Dashboard Preview](https://github.com/kb546/Healthcare_Data_Analysis_PowerBI./blob/main/screenshot.png)
 
 ## Key Features
 - **Patient Satisfaction Analysis**: Displays satisfaction scores across different age groups, racial demographics, and departments.
